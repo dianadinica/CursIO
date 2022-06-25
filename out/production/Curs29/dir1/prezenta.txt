@@ -1,0 +1,5 @@
+curs27=true
+curs28=false
+curs29=true
+curs30=true
+curs31=false
